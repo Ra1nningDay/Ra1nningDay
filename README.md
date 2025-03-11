@@ -1,11 +1,26 @@
-<h2 align="left">Hi 👋! I'm Plam and I'm a backend developer, from Chumphon, Thailand</h2>
+<h2 align="left">Hi 👋! I'm Plam, a Backend Developer from Chumphon, Thailand</h2>
 
 ###
 
+<p align="left">I'm just a regular guy who started coding a few years ago after dipping my toes in IT support. I’m passionate about backend development and data management, and I’ve been building projects with tools like PHP, Laravel, and MySQL. I usually code in VS Code, but recently I’ve been challenging myself with NeoVim—because why not? Right now, I’m focused on sharpening my backend skills, and maybe in a couple of years, I’ll dive into AI stuff. Let’s see where this journey takes me!</p>
+
 ###
 
-<p align="left">I'm just regular guy who started coding 2 years ago. I like to use VScode as my editor, but i felt like i'm not toture enough, so I start using NeoVim.
-Now, I expanding my skills to backend developer and built some projects that effective. Maybe in 2 years, I'll start learning how to work with AI stuff.</p>
+<h2 align="left">About Me</h2>
+<p align="left">I graduated from Chumphon Vocational College with a degree in Digital Business Technology (GPA 3.95, 2021–2025). My coding journey kicked off after working as an IT Support Intern at Thonburi-Chumphon Hospital, where I fixed printers, tackled network issues, and even built some hospital forms with Crystal Report. Since then, I’ve been hooked on programming—competing in national tech competitions, earning gold medals, and creating projects like the "Care Bridge" caregiver search system. I love solving real-world problems and building stuff that works.</p>
+
+###
+
+<h2 align="left">My Projects</h2>
+<ul>
+  <li><b>Portfolio Website</b> (Next.js, Tailwind) - 2025</li>
+  <li><b>Find Caregiver System</b> (Laravel, MySQL, Bootstrap) - 2024</li>
+  <li><b>College News Website</b> (PHP, Bootstrap) - 2024</li>
+  <li><b>Group Portfolio Website</b> (React, TypeScript) - 2023</li>
+  <li><b>GooderHealth</b> (PHP) - E-commerce site selling health courses, 2023</li>
+  <li><b>Personal Blogs</b> (PHP) - 2023</li>
+  <li><b>Educational Media Website</b> (HTML, CSS, JavaScript, Bootstrap) - 2022</li>
+</ul>
 
 ###
 
@@ -14,21 +29,30 @@ Now, I expanding my skills to backend developer and built some projects that eff
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 <div align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" /> <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" /> <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /> <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" /> <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" /> <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" /> <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" /> <img width="12" />
 </div>
 
 ###
+
+<h2 align="left">Connect With Me</h2>
+<p align="left">
+  📧 Email: tkhamkawe@gmail.com<br>
+  📱 Phone: 061-263-5102<br>
+  🏠 Location: 222/4 Natung, Chumphon, Thailand
+</p>
