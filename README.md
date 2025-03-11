@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Plam and I'm a backend developer, from Chumphon, Thailand</h2>
 
-<h3 align="left">I'm just regular guy who started coding 2 years ago. I like to use VScode as my editor, but i felt like i'm not toture enough, so I start using NeoVim.
+<h5 align="left">I'm just regular guy who started coding 2 years ago. I like to use VScode as my editor, but i felt like i'm not toture enough, so I start using NeoVim.
 Now, I expanding my skills to backend developer and built some projects that effective. Maybe in 2 years, I'll start learning how to work with AI stuff.</p>
 
 ###
