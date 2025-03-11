@@ -11,19 +11,6 @@
 
 ###
 
-<h2 align="left">My Projects</h2>
-<ul>
-  <li><b>Portfolio Website</b> (Next.js, Tailwind) - 2025</li>
-  <li><b>Find Caregiver System</b> (Laravel, MySQL, Bootstrap) - 2024</li>
-  <li><b>College News Website</b> (PHP, Bootstrap) - 2024</li>
-  <li><b>Group Portfolio Website</b> (React, TypeScript) - 2023</li>
-  <li><b>GooderHealth</b> (PHP) - E-commerce site selling health courses, 2023</li>
-  <li><b>Personal Blogs</b> (PHP) - 2023</li>
-  <li><b>Educational Media Website</b> (HTML, CSS, JavaScript, Bootstrap) - 2022</li>
-</ul>
-
-###
-
 ![Ra1nningDay's Stats](https://github-readme-stats.vercel.app/api?username=Ra1nningDay&theme=nord&show_icons=true&hide_border=true&count_private=true)
 ![Ra1nningDay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra1nningDay&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
