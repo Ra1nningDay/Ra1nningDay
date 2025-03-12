@@ -40,6 +40,4 @@
 <h2 align="left">Connect With Me</h2>
 <p align="left">
   📧 Email: tkhamkawe@gmail.com<br>
-  📱 Phone: 061-263-5102<br>
-  🏠 Location: 222/4 Natung, Chumphon, Thailand
 </p>
