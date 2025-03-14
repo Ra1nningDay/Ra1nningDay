@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About Me</h2>
-<p align="left">I graduated from Chumphon Vocational College with a degree in Digital Business Technology (GPA 3.95, 2021–2025). My coding journey kicked off after working as an IT Support Intern at Thonburi-Chumphon Hospital, where I fixed printers, tackled network issues, and even built some hospital forms with Crystal Report. Since then, I’ve been hooked on programming—competing in national tech competitions, earning gold medals, and creating projects like caregiver search system. I love solving real-world problems and building stuff that works.</p>
+<p align="left">I graduated from Chumphon Vocational College with a degree in Digital Business Technology. My coding journey kicked off after working as an IT Support Intern at Thonburi-Chumphon Hospital, where I fixed printers, tackled network issues, and even built some hospital forms with Crystal Report. Since then, I’ve been hooked on programming—competing in national tech competitions, earning gold medals, and creating projects like caregiver search system. I love solving real-world problems and building stuff that works.</p>
 
 ###
 
