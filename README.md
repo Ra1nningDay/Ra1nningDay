@@ -1,7 +1,6 @@
-# Plam’s README
+# Hi! I'm Plam, a Backend Developer
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h2 align="left">Hi! I'm Plam, a Backend Developer</h2>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="150" align="right">
 </div>
 
