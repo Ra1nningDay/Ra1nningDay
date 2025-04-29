@@ -10,12 +10,6 @@
 
 ###
 
-<h2 align="left">About Me</h2>
-<p align="left">I graduated from Chumphon Vocational College with a degree in Digital Business Technology. My coding journey kicked off after working as an IT Support Intern at Thonburi-Chumphon Hospital, where I fixed printers, tackled network issues, and even built some hospital forms with Crystal Report. Since then, I’ve been hooked on programming—competing in national tech competitions, earning gold medals, and creating projects like caregiver search system. I love solving real-world problems and building stuff that works.</p>
-
-###
-
-![Ra1nningDay's Stats](https://github-readme-stats.vercel.app/api?username=Ra1nningDay&theme=nord&show_icons=true&hide_border=true&count_private=true)
 ![Ra1nningDay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra1nningDay&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 ###
