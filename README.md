@@ -6,6 +6,6 @@
 
 ###
 
-<p align="left">I'm just a regular guy who started coding a few years ago after dipping my toes in IT support. I’m passionate about backend development and data management, and I’ve been building projects with tools like PHP, Laravel, and MySQL. I usually code in VS Code, but recently I’ve been challenging myself with NeoVim—because why not? Right now, I’m focused on sharpening my backend skills, and maybe in a couple of years, I’ll dive into AI stuff.</p>
+<p align="left">I started my adventure with PHP, Laravel, and MySQL, building web apps and taming database. Those were fun days! But I’m all about growth, so I dove into the TypeScript universe, rocking Next.js for slick, scalable frontends and NestJS for bulletproof backends. This stack? It’s my happy place—clean, structured, and endlessly fun to play with. And yeah, I swapped VS Code (still cool, no hate!) for Neovim. Why? Because I’m a sucker for a challenge, and nailing those keybindings feels like unlocking a superpower. :wq is basically my life motto now.</p>
 
 ###
