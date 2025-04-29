@@ -36,8 +36,3 @@
 </div>
 
 ###
-
-<h2 align="left">Connect With Me</h2>
-<p align="left">
-  📧 Email: tkhamkawe@gmail.com<br>
-</p>
