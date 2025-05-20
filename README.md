@@ -6,6 +6,6 @@
 
 ###
 
-<p align="left">I began my journey with PHP, Laravel, and MySQL. Those were enjoyable days! However, I believe in continuous growth, so I immersed myself in the TypeScript ecosystem, using Next.js for sleek, scalable frontends and NestJS for robust backends. This tech stack? It’s my happy place—clean, organized, and endlessly enjoyable to work with. I also transitioned from VS Code (which I still think is great) to Neovim. Why? Because I love a challenge, and mastering those keybindings feels like unlocking a superpower. The command:wq has become my life motto.</p>
+<p align="left">I began my journey with PHP. Those were enjoyable days! However, I believe in continuous growth, so I immersed myself in the TypeScript ecosystem, using Next.js for sleek, scalable frontends and NestJS for robust backends. This tech stack? It’s my happy place—clean, organized, and endlessly enjoyable to work with. I also transitioned from VS Code (which I still think is great) to Neovim. Why? Because I love a challenge, and mastering those keybindings feels like unlocking a superpower. The command:wq has become my life motto.</p>
 
 ###
